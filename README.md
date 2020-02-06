@@ -20,3 +20,10 @@
 ## Event Bus
 * [이벤트 버스 사용법](https://gun0912.tistory.com/4)
 * [이벤트 버스(otto) 공식 사이트](https://github.com/square/otto)
+
+## 이미지 라이브러리
+* [안드로이드 이미지 라이브러리 비교 자료](https://d2.naver.com/helloworld/429368)
+
+### Picasso
+* https://futurestud.io/tutorials/picasso-influencing-image-caching
+ 
