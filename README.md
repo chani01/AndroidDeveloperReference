@@ -23,6 +23,7 @@
 
 ## 이미지 라이브러리
 * [안드로이드 이미지 라이브러리 비교 자료](https://d2.naver.com/helloworld/429368)
+* [블로그1 : 안드로이드 이미지 라브러리 비교 자료](https://gun0912.tistory.com/17)
 
 ### Picasso
 * [picasso 공식 사이트](https://square.github.io/picasso/)
