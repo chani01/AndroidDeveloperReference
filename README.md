@@ -13,3 +13,7 @@
 
 ## DataBinding
 * [데이터 바인딩 사용법](https://itpangpang.xyz/353)
+
+## Event Bus
+* [이벤트 버스 사용법](https://gun0912.tistory.com/4)
+* [이벤트 버스(otto) 공식 사이트](https://github.com/square/otto)
