@@ -25,5 +25,6 @@
 * [안드로이드 이미지 라이브러리 비교 자료](https://d2.naver.com/helloworld/429368)
 
 ### Picasso
-* https://futurestud.io/tutorials/picasso-influencing-image-caching
+* [picasso 공식](https://square.github.io/picasso/)
+* [블로그1](https://futurestud.io/tutorials/picasso-influencing-image-caching)
  
