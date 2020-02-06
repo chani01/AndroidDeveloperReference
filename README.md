@@ -34,3 +34,5 @@
 * [Glide 공식 사이트](https://github.com/bumptech/glide)
 * [블로그1](https://velog.io/@rjsdnqkr1/Glide-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-yuk1fmwzo1)
 
+## 안드로이드 디자인 패턴
+* [MVP 패턴](https://thdev.tech/androiddev/2017/02/20/Android-MVP-Package-Structure/)
