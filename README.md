@@ -10,6 +10,8 @@
 * [안드로이드 'xml:tools' 가이드](https://gun0912.tistory.com/73)
 * [안드로이드 컬러 알파값 계산기](https://leipiel.tistory.com/13)
 * [안드로이드 라이브러리 등록 사이트](https://jitpack.io/)
+* [Epoch & Unix Timestamp Conversion Tools](https://www.epochconverter.com/)
+* [DB-Query 기본](https://velog.io/@josworks27/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EA%B8%B0%EC%B4%88-Query-%EB%AC%B8%EB%B2%95)
 
 ## Retrofit
 * [블로그 1 : 집요정 도비의 일기](https://march3samwuli.tistory.com/entry/Retrofit-2%EB%A1%9C-Http%ED%86%B5%EC%8B%A0-%EA%B5%AC%ED%98%84-%EC%8B%9C%EA%B0%84%EC%9D%84-%EB%8B%A8%EC%B6%95%ED%95%B4%EB%B3%B4%EC%9E%90)
